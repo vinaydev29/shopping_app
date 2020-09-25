@@ -1,12 +1,12 @@
-#Shopping app Admin and API
-Technology: PHP, YII2, MySql
+# Shopping app Admin and API
 
+Technology: PHP, YII2, MySql
 Database folder(sql files): shopping_app\db
 
 <strong>App url(backend): http://localhost/shopping_app/web/product/index</strong>
 
 
-<h3>Get all products details with images</h3>
+<h2>Get all products details with images</h2>
 <strong>API Url: http://localhost/shopping_app/web/product-api/all-products</strong>
 <pre>
 <code>
@@ -47,10 +47,10 @@ Response:
 </code>
 </pre>
 
-<h3>Add products to cart using user id and proctuct details</h3>
+<h2>Add products to cart using user id and proctuct details</h2>
 <strong>API Url: http://localhost/shopping_app/web/cart-api/add</strong>
 <pre>
-	<code>
+<code>
 Method: POST
 Content type: JSON
 Body: RAW
@@ -84,10 +84,10 @@ Response:
         }
     ]
 }
-	</code>
+</code>
 </pre>
 
-<h3>Get all products added in cart</h3>
+<h2>Get all products added in cart by user id</h2>
 <strong>API Url: http://localhost/shopping_app/web/cart-api/user-cart?userId=1</strong>
 <pre>
 <code>
