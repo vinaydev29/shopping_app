@@ -2,6 +2,7 @@
 
 Technology: PHP, YII2, MySql
 Database folder(sql files): shopping_app\db
+Database connection: shopping_app\config\db.php
 
 <strong>App url(backend): http://localhost/shopping_app/web/product/index</strong>
 
