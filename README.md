@@ -1,8 +1,8 @@
 # Shopping app Admin and API
 
-Technology: PHP, YII2, MySql
-Database folder(sql files): shopping_app\db
-Database connection: shopping_app\config\db.php
+<p>Technology: PHP, YII2, MySql</p>
+<p>Database folder(sql files): shopping_app\db</p>
+<p>Database connection: shopping_app\config\db.php</p>
 
 <strong>App url(backend): http://localhost/shopping_app/web/product/index</strong>
 
